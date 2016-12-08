@@ -6,3 +6,5 @@
 1. npm run build
 
 app is available on :8080 and will rebuild on changes
+
+May need to do: npm install -g webpack-dev-server
